@@ -1,5 +1,1 @@
-Nice to meet you
-
-I am a student of Peter the Great St. Petersburg Polytechnic University in the field of "Information Security of Automated Systems". I have skills in system programming of Windows OS and Linux OS: development of drivers, services, and kernel modules. Experience in developing complex multi-threaded synchronization systems. Knowledge of the modern standard C++ library. Experience in developing desktop applications with a graphical interface.
-
-In my free time, I actively use the following languages for development: C/C++, Rust, and Python. I also have development experience in the following languages: Assembly, GoLang, Java/Kotlin, and Yacc and in the following frameworks: Qt, CUDA, Metal, GNOME-Glib-GTK, DBus, Poco
+I am a qualified specialist in the field of information technologies and information security. I have experience in system programming, reverse engineering, cryptography, various database management systems, and networking with a focus on information security. I am also familiar with the C++ standard library and have experience in template metaprogramming. I've experience developing Web applications, desktop applications with a graphical interface, and multithreaded synchronization. In my free time, I actively use C/C++, Rust, and Python for development. I also have experience in Assembly, GoLang, Java/Kotlin
