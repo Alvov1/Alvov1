@@ -1,3 +1,3 @@
-I am a qualified specialist in the field of information technologies and information security. I have experience in system programming, reverse engineering, cryptography, various database management systems, and networking with a focus on information security. 
+I am a qualified specialist with an MSc in Information Security and an experienced C++ / Rust developer, focusing on backend development, cybersecurity, and security research. My expertise includes system programming, networking, cryptography, reverse engineering, and dev-sec-ops
 
-I am also familiar with the C++ standard library and have experience in template metaprogramming. I've experience developing Web applications, desktop applications with a graphical interface, and multithreaded synchronization. In my free time, I actively use C/C++, Rust, and Python for development. I also have experience in Assembly, GoLang, Java/Kotlin
+My main spheres of interest are template metaprogramming in C++, developing complex multithreaded synchronization systems involving networking, tasks involving hardware acceleration on GPU (Cuda/OpenCL/Metal), and smart contracts development (Solidity / Rust)
