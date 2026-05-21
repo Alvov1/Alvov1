@@ -1,1 +1,1 @@
-A MSc in Cyber Security. Playing with C++, Cuda, Rust and Go
+A MSc in Cyber Security. Playing with C++, Go, Cuda, and Rust
