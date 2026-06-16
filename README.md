@@ -1,1 +1,19 @@
-A MSc in Cyber Security. Playing with Go, C++20/23, Kubernetes, GCP/Azure
+A MSc in Cyber Security. Playing with C++20/23, Go and Rust
+
+Cloud Infrastructure Engineer with 3+ years of experience focused on distributed systems, network security, and cloud infrastructure (GCP, Azure)
+
+Experienced with confidential computing environments, network security layers, hardware attestation (TDX/SGX), Kubernetes deployments, and large-scale CI/CD automation
+
+Other areas of interest: GPU-accelerated computing (CUDA/CCCL), HPC workloads, and performance-oriented systems design
+
+---
+
+List of repositories I contributed to so far:
+
+C++:
+- [gabime/spdlog](https://github.com/gabime/spdlog) — Grafana loki sink [#3620](https://github.com/gabime/spdlog/pull/3620)
+- [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) — Compile-time type assertions [#1486](https://github.com/fnc12/sqlite_orm/pull/1486), minor improvements [#1484](https://github.com/fnc12/sqlite_orm/pull/1484)
+- [ckormanyos/wide-integer](https://github.com/ckormanyos/wide-integer) — Minor improvements [#498](https://github.com/ckormanyos/wide-integer/pull/498), [#499](https://github.com/ckormanyos/wide-integer/pull/499)
+
+Rust:
+- [kube-rs/kube](https://github.com/kube-rs/kube) — Label selector cache filtering [#1998](https://github.com/kube-rs/kube/pull/1998), [#2002](https://github.com/kube-rs/kube/pull/2002)
