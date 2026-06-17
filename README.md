@@ -11,9 +11,8 @@ Other areas of interest: GPU-accelerated computing (CUDA/CCCL), HPC workloads, a
 List of repositories I contributed to so far:
 
 C++:
-- [gabime/spdlog](https://github.com/gabime/spdlog) — Grafana loki sink [#3620](https://github.com/gabime/spdlog/pull/3620)
-- [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) — Compile-time type assertions [#1486](https://github.com/fnc12/sqlite_orm/pull/1486), minor improvements [#1484](https://github.com/fnc12/sqlite_orm/pull/1484)
-- [ckormanyos/wide-integer](https://github.com/ckormanyos/wide-integer) — Minor improvements [#498](https://github.com/ckormanyos/wide-integer/pull/498), [#499](https://github.com/ckormanyos/wide-integer/pull/499)
+- [gabime/spdlog](https://github.com/gabime/spdlog) — Grafana Loki sink [#3620](https://github.com/gabime/spdlog/pull/3620)
+- [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) — Compile-time type assertions [#1486](https://github.com/fnc12/sqlite_orm/pull/1486)
 
 Rust:
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) — VHD out-of-bounds read/write [#8394](https://github.com/cloud-hypervisor/cloud-hypervisor/pull/8394)
