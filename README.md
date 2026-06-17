@@ -16,4 +16,5 @@ C++:
 - [ckormanyos/wide-integer](https://github.com/ckormanyos/wide-integer) — Minor improvements [#498](https://github.com/ckormanyos/wide-integer/pull/498), [#499](https://github.com/ckormanyos/wide-integer/pull/499)
 
 Rust:
+- [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) — VHD out-of-bounds read/write [#8394](https://github.com/cloud-hypervisor/cloud-hypervisor/pull/8394)
 - [kube-rs/kube](https://github.com/kube-rs/kube) — Label selector cache filtering [#1998](https://github.com/kube-rs/kube/pull/1998), [#2002](https://github.com/kube-rs/kube/pull/2002)
