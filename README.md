@@ -11,6 +11,7 @@ Other areas of interest: GPU-accelerated computing (CUDA/CCCL), HPC workloads, a
 List of repositories I contributed to so far:
 
 C++:
+- [google/nsjail](https://github.com/google/nsjail) — Core scheduling support (PR_SCHED_CORE) [#271](https://github.com/google/nsjail/pull/271)
 - [gabime/spdlog](https://github.com/gabime/spdlog) — Grafana Loki sink [#3620](https://github.com/gabime/spdlog/pull/3620)
 - [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) — Compile-time type assertions [#1486](https://github.com/fnc12/sqlite_orm/pull/1486)
 
